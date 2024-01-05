@@ -13,3 +13,7 @@ Para acessar [clique aqui!](https://letzc.github.io/Arquitetura-CSS/#)
 
 ## :memo: Sobre o projeto:
 - Projeto guiado da Alura.
+
+## :file_folder: Autores:
+- Desenvolvedora: [LetzC](https://github.com/LetzC)
+- Crédito a base do Mockup para a capa do projeto: Image by zlatko_plamenov on Freepik
